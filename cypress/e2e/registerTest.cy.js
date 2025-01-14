@@ -1,7 +1,8 @@
 import { registerPage } from "../Pages/registerPage"
 import registerData from '../fixtures/registerData.json'
-describe ('Automation Testing Execution', ()=>{
 const registerObj = new registerPage()
+describe ('Automation Testing Execution', ()=>{
+
 
 //import registerData from '../../cypress/fixtures/registerData.json'
 it('register flow',()=>{
