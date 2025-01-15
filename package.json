@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:register": "npx cypress run --spec cypress/e2e/registerTest.cy.js"
+    "test:register": "npx cypress run --spec cypress/e2e/registerTest.cy.js",
+    "test:home": "npx cypress run --spec cypress/e2e/homePage.cy.js"
   },
   "author": "",
   "license": "ISC",
