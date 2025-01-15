@@ -1,6 +1,6 @@
 
 
-name: Sanity tests
+name: browser based tests
 on: push
 jobs:
   cypress-run:
@@ -13,5 +13,5 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with: 
-            command: npm run test:home
-            browser: firefox
+            command: npm run test:home --browser firefox
+            
