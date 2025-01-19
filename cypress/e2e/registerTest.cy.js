@@ -7,7 +7,7 @@ describe ('Automation Testing Execution', ()=>{
 //import registerData from '../../cypress/fixtures/registerData.json'
 it('register flow',()=>{
 
-registerObj.openURL()
+registerObj.openURL(URL)
 registerObj.enterFirstName(registerData.firstName)
 registerObj.enterLasttName(registerData.lastName)
 registerObj.enterEmail(registerData.email)

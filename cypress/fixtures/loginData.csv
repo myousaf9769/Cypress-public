@@ -1,0 +1,10 @@
+firstname,lastname,email,telephone,password,cpassword,expectedMessage
+yousaf1,ali1,111yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user1!
+yousaf2,ali2,2yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user2!
+yousaf3,ali3,3yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user3!
+yousaf4,ali4,4yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user4!
+yousaf5,ali5,5yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user5!
+yousaf6,ali6,6yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,!user6!
+yousaf7,ali7,7yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,!user7!
+yousaf8,ali8,8yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user8!
+yousaf9,ali9,9yousaf123@gamil.com,03045147368,pakistan,pakistan,Your Account Has Been Created!,user9!
